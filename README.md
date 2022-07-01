@@ -1,3 +1,7 @@
+Personal notes:
+Configured Market Makker
+
+
 BitMEX Market Maker
 ===================
 
